@@ -6,7 +6,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## Hash Map
 #|Name|Solution
 :----:|----|----
-1 | [Two Sum](https://leetcode.com/problems/two-sum/)
+1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/1_two-sum.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/1_two-sum.go)
 49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/)
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/)
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/)
@@ -16,7 +16,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## LinkedList
 #|Name|Solution
 :----:|----|----
-2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/)
+2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/2_add-two-numbers.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/2_add-two-numbers.go)
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/)
 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/)
@@ -25,13 +25,13 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## Sliding Window
 #|Name|Solution
 :----:|----|----
-3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/)
+3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/3_longest-substring-without-repeating-characters.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/3_longest-substring-without-repeating-characters.go)
 209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/)
 
 ## Greedy + Backtracking
 #|Name|Solution
 :----:|----|----
-22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/)
+22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/22_generate-parentheses.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/22_generate-parentheses.go)
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/)
 46 | [Permutations](https://leetcode.com/problems/permutations/)
 78 | [Subsets](https://leetcode.com/problems/subsets/)
@@ -39,7 +39,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## Stack
 #|Name|Solution
 :----:|----|----
-20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/)
+20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/20_valid-parentheses.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/20_valid-parentheses.go)
 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/)
 
 ## Heap, PriorityQueue
@@ -58,7 +58,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## Binary Search
 #|Name|Solution
 :----:|----|----
-33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/)
+33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/33_search-in-rotated-sorted-array.py)
 35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/)
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/)
 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/)
@@ -106,8 +106,8 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## Others
 #|Name|Solution
 :----:|----|----
-6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/)
+6 | [ZigZag Conversion](https://leetcode.com/problems/zigzag-conversion/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/6_zigzag-conversion.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/6_zigzag-conversion.go) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/8_string-to-integer-atoi.py)
 8 | [String to Integer (atoi)](https://leetcode.com/problems/string-to-integer-atoi/)
-31 | [Next Permutation](https://leetcode.com/problems/next-permutation/)
+31 | [Next Permutation](https://leetcode.com/problems/next-permutation/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/31_next-permutation.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/31_next-permutation.go)
 283 | [Move Zeroes](https://leetcode.com/problems/move-zeroes/)
 392 | [Is Subsequence](https://leetcode.com/problems/is-subsequence/)
