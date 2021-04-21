@@ -1,5 +1,4 @@
-# leetcode
-Solutions of LeetCode Problems
+# Solutions of LeetCode Problems
 
 This repo aims at arranging my solutions.<br>
 I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I add other problems in this repo.
