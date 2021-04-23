@@ -59,7 +59,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 33 | [Search in Rotated Sorted Array](https://leetcode.com/problems/search-in-rotated-sorted-array/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/33_search-in-rotated-sorted-array.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/33_search-in-rotated-sorted-array.go)
-35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/35_search-insert-position.py)
+35 | [Search Insert Position](https://leetcode.com/problems/search-insert-position/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/35_search-insert-position.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/35_search-insert-position.go)
 153 | [Find Minimum in Rotated Sorted Array](https://leetcode.com/problems/find-minimum-in-rotated-sorted-array/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/153_find-minimum-in-rotated-sorted-array.py)
 1011 | [Capacity To Ship Packages Within D Days](https://leetcode.com/problems/capacity-to-ship-packages-within-d-days/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/1011_capacity-to-ship-packages-within-d-days.py)
 
