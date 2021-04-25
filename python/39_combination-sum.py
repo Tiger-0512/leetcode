@@ -1,3 +1,4 @@
+# Recursion
 class Solution:
     def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
 
@@ -26,5 +27,22 @@ class Solution:
         candidates = sorted(candidates)
 
         find_combinations(results, combination, candidates, target, 0)
-
         return results
+
+
+#---------------------------------------------------------------------------------------#
+
+
+# Dynamic Programming
+class Solution:
+    def combinationSum(self, candidates: List[int], target: int) -> List[List[int]]:
+        dp = [[] for _ in range(target + 1)]
+        dp[0] = [[]]
+
+        for c in sorted(candidates):
+            for i in range(target + 1):
+                if i >= c:
+                    for d in dp[i - c]:
+                        dp[i].append(d + [c])
+
+        return dp[-1]
