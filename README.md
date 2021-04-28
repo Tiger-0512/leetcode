@@ -33,7 +33,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 :----:|----|:----:
 22 | [Generate Parentheses](https://leetcode.com/problems/generate-parentheses/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/22_generate-parentheses.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/22_generate-parentheses.go)
 39 | [Combination Sum](https://leetcode.com/problems/combination-sum/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/39_combination-sum.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/39_combination-sum.go)
-46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/46_permutations.py)
+46 | [Permutations](https://leetcode.com/problems/permutations/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/46_permutations.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/46_permutations.go)
 78 | [Subsets](https://leetcode.com/problems/subsets/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/78_subsets.py)
 
 ## Stack
