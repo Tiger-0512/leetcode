@@ -7,7 +7,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 1 | [Two Sum](https://leetcode.com/problems/two-sum/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/1_two-sum.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/1_two-sum.go)
-49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/49_group-anagrams.py)
+49 | [Group Anagrams](https://leetcode.com/problems/group-anagrams/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/49_group-anagrams.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/49_group-anagrams.go)
 349 | [Intersection of Two Arrays](https://leetcode.com/problems/intersection-of-two-arrays/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/349_intersection-of-two-arrays.py)
 387 | [First Unique Character in a String](https://leetcode.com/problems/first-unique-character-in-a-string/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/387_first-unique-character-in-a-string.py)
 560 | [Subarray Sum Equals K](https://leetcode.com/problems/subarray-sum-equals-k/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/560_subarray-sum-equals-k.py)
