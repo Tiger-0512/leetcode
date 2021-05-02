@@ -52,7 +52,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 ## Recursion
 #|Name|Solution
 :----:|----|:----:
-50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/50_powx-n.py)
+50 | [Pow(x, n)](https://leetcode.com/problems/powx-n/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/50_powx-n.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/50_powx-n.go)
 779 | [K-th Symbol in Grammar](https://leetcode.com/problems/k-th-symbol-in-grammar/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/779_k-th-symbol-in-grammar.py)
 
 ## Binary Search
