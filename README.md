@@ -93,7 +93,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 53 | [Maximum Subarray](https://leetcode.com/problems/maximum-subarray/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/53_maximum-subarray.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/53_maximum-subarray.go)
-62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/62_unique-paths.py)
+62 | [Unique Paths](https://leetcode.com/problems/unique-paths/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/62_unique-paths.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/62_unique-paths.go)
 63 | [Unique Paths II](https://leetcode.com/problems/unique-paths-ii/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/63_unique-paths-ii.py)
 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/121_best-time-to-buy-and-sell-stock.py)
 122 | [Best Time to Buy and Sell Stock II](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/122_best-time-to-buy-and-sell-stock-ii.py)
