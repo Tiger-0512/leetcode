@@ -1,13 +1,13 @@
 func maxSubArray(nums []int) int {
-	max_current := nums[0]
-	max_global := max_current
+	maxCurrent := nums[0]
+	maxGlobal := maxCurrent
 
 	for _, n := range nums[1:] {
-		max_current = maxInt(max_current+n, n)
-		max_global = maxInt(max_global, max_current)
+		maxCurrent = maxInt(maxCurrent+n, n)
+		maxGlobal = maxInt(max_Global, max_Current)
 	}
 
-	return max_global
+	return maxGlobal
 }
 
 func maxInt(a, b int) int {
