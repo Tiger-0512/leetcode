@@ -74,7 +74,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 94 | [Binary Tree Inorder Traversal](https://leetcode.com/problems/binary-tree-inorder-traversal/)
-98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/98_validate-binary-search-tree.py)
+98 | [Validate Binary Search Tree](https://leetcode.com/problems/validate-binary-search-tree/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/98_validate-binary-search-tree.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/98_validate-binary-search-tree.go)
 101 | [Symmetric Tree](https://leetcode.com/problems/symmetric-tree/)
 102 | [Binary Tree Level Order Traversal](https://leetcode.com/problems/binary-tree-level-order-traversal/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/102_binary-tree-level-order-traversal.py)
 103 | [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/103_binary-tree-zigzag-level-order-traversal.py)
