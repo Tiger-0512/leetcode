@@ -19,8 +19,8 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 2 | [Add Two Numbers](https://leetcode.com/problems/add-two-numbers/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/2_add-two-numbers.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/2_add-two-numbers.go)
 82 | [Remove Duplicates from Sorted List II](https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/82_remove-duplicates-from-sorted-list-ii.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/82_remove-duplicates-from-sorted-list-ii.go)
 83 | [Remove Duplicates from Sorted List](https://leetcode.com/problems/remove-duplicates-from-sorted-list/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/83_remove-duplicates-from-sorted-list.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/83_remove-duplicates-from-sorted-list.go)
-141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/141_linked-list-cycle.py)
-142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/142_linked-list-cycle-ii.py)
+141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/141_linked-list-cycle.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/141_linked-list-cycle.go)
+142 | [Linked List Cycle II](https://leetcode.com/problems/linked-list-cycle-ii/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/142_linked-list-cycle-ii.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/142_linked-list-cycle-ii.go)
 
 ## Sliding Window
 #|Name|Solution
