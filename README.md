@@ -67,7 +67,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 127 | [Word Ladder](https://leetcode.com/problems/word-ladder/)
-200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/200_number-of-islands.py)
+200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/200_number-of-islands.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/200_number-of-islands.go)
 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/695_max-area-of-island.py)
 
 ## Tree, BT, BST
