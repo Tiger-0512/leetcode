@@ -40,7 +40,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 20 | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/20_valid-parentheses.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/20_valid-parentheses.go)
-206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/206_reverse-linked-list.py)
+206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/206_reverse-linked-list.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/206_reverse-linked-list.go)
 
 ## Heap, PriorityQueue
 #|Name|Solution
