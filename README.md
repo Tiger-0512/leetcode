@@ -26,7 +26,7 @@ I solved [these problems](https://1kohei1.com/leetcode/) first. After that, I ad
 #|Name|Solution
 :----:|----|:----:
 3 | [Longest Substring Without Repeating Characters](https://leetcode.com/problems/longest-substring-without-repeating-characters/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/3_longest-substring-without-repeating-characters.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/3_longest-substring-without-repeating-characters.go)
-209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/209_minimum-size-subarray-sum.py)
+209 | [Minimum Size Subarray Sum](https://leetcode.com/problems/minimum-size-subarray-sum/) | [Python](https://github.com/Tiger-0512/leetcode/blob/main/python/209_minimum-size-subarray-sum.py) <br> [Go](https://github.com/Tiger-0512/leetcode/blob/main/go/209_minimum-size-subarray-sum.go)
 
 ## Greedy + Backtracking
 #|Name|Solution
